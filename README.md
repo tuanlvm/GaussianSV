@@ -52,6 +52,7 @@ Details:
 + Each line of $word_vectors_file is a word vector whose fields are separated by '\t'. The line numbers corresponding to the ids of words.
 
 HOW TO CITE
+
 If you use GaussianSV for your research, please cite:
 
 	@inproceedings{gaussiansv,
