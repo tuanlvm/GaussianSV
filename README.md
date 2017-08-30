@@ -62,4 +62,4 @@ If you use GaussianSV for your research, please cite:
 	    year={2017}
 	}
 		
-	The paper can be downloaded from: http://www.hadylauw.com/publications/ijcai17a.pdf
+The paper can be downloaded from: http://www.hadylauw.com/publications/ijcai17a.pdf
