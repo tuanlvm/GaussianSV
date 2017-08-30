@@ -7,17 +7,17 @@ This is an implementation of GaussianSV - a semantic visualization method for sh
 Usage:
 
 	perl gaussiansv.pl	--num_topics $num_topics
-						--dim $dim
-						--beta $beta
-						--gamma $gamma
-						--EM_iter $EM_iter
-						--Quasi_iter $Quasi_iter
-						--data $data
-						--word_vectors $word_vectors_file
-						--word_vectors_dim $D
-						--rho $rho
-						--rho_0 $rho_0
-						--output_file $output_file
+				--dim $dim
+				--beta $beta
+				--gamma $gamma
+				--EM_iter $EM_iter
+				--Quasi_iter $Quasi_iter
+				--data $data
+				--word_vectors $word_vectors_file
+				--word_vectors_dim $D
+				--rho $rho
+				--rho_0 $rho_0
+				--output_file $output_file
 
 Arguments:
 	$num_topics: number of topics
