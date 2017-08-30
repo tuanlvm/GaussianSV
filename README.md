@@ -21,27 +21,16 @@ Usage:
 
 Arguments:
 	$num_topics: number of topics
-	
 	$dim: number of dimensions (default 2)
-	
 	$beta: covariance for Gaussian prior of topic coordinates (default 0.1*$num_docs)
-	
 	$gamma: covariance for Gaussian prior of document coordinates (default 0.1*$num_topics)
-	
 	$EM_iter: number of iterations for EM (default 100)
-	
 	$Quasi_iter: maximum iterations of Quasi-Newton (default 10)
-	
 	$word_vectors_file: file contains word vectors
-	
 	$D: dimension of word vector
-	
 	$rho: hyper-parameter \rho
-	
 	$rho_0: hyper-parameter \rho_0
-	
 	$data: input data
-	
 	$output_file: output file
 	
 
