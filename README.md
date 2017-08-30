@@ -20,6 +20,7 @@ Usage:
 				--output_file $output_file
 
 Arguments:
+
 	$num_topics: number of topics
 	$dim: number of dimensions (default 2)
 	$beta: covariance for Gaussian prior of topic coordinates (default 0.1*$num_docs)
