@@ -49,7 +49,7 @@ Details:
 	17 18 19 20 20 21 22 23 24 25 25 25 25 25 25 26 27 27 28 29<br/>
 	30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 50 51 52 53 54 54 55 56 57 58<br/>
 			
-+ Each line of $word_vectors_file is a word vector whose fields are separated by '\t'. The line numbers corresponding to the ids of words.
++ Each line of $word_vectors_file is a word vector whose fields are separated by '\t'. Line numbers correspond to the ids of words.
 
 HOW TO CITE
 
